@@ -1,2325 +1,1500 @@
 {
-    "name": "Abalone",
-    "notice": "",
-    "spider": "",
-    "logo": "./logo/hunter.gif",
-    "wallpaper": "./imgs/y3.webp",
-    "sites":[
-        {
-            "key": "local_[Aure][剧¹⁸]野果短剧",
-            "name": "[Aure][剧¹⁸]野果短剧ᵖʸ",
-            "type": 3,
-            "api": "./File/py/Abalone/[Aure][剧¹⁸]野果短剧.py",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "order_num": 0,
-            "style": {
-                "type": "rect",
-                "ratio": 1.755
-            },
-            "ext": ""
-        },
-        {
-            "key": "local_[Aure][剧¹⁸]黄果短剧",
-            "name": "[Aure][剧¹⁸]黄果短剧ᵖʸ",
-            "type": 3,
-            "api": "./File/py/Abalone/[Aure][剧¹⁸]黄果短剧.py",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "order_num": 0,
-            "style": {
-                "type": "rect",
-                "ratio": 1.755
-            },
-            "ext": ""
-        },
-        {
-            "key": "local_[Aure][影¹⁸]57吃瓜网",
-            "name": "[Aure][影¹⁸]57吃瓜网ᵖʸ",
-            "type": 3,
-            "api": "./File/py/Abalone/[Aure][影¹⁸]57吃瓜网.py",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "order_num": 0,
-            "style": {
-                "type": "rect",
-                "ratio": 1.755
-            },
-            "ext": ""
-        },
-        {
-            "key": "local_[Aure][剧¹⁸]黄果短剧_竞速",
-            "name": "[Aure][剧¹⁸]黄果短剧_竞速ᵖʸ",
-            "type": 3,
-            "api": "./File/py/Abalone/[Aure][剧¹⁸]黄果短剧_竞速.py",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "order_num": 0,
-            "style": {
-                "type": "rect",
-                "ratio": 1.755
-            },
-            "ext": ""
-        },
-        {
-            "key": "local_[Aure][影¹⁸]123AV",
-            "name": "[Aure][影¹⁸]123AVᵖʸ",
-            "type": 3,
-            "api": "./File/py/Abalone/[Aure][影¹⁸]123AV.py",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "order_num": 0,
-            "style": {
-                "type": "rect",
-                "ratio": 1.755
-            },
-            "ext": ""
-        },
-        {
-            "key": "local_[Aure][影¹⁸]GetAV",
-            "name": "[Aure][影¹⁸]GetAVᵖʸ",
-            "type": 3,
-            "api": "./File/py/Abalone/[Aure][影¹⁸]GetAV.py",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "order_num": 0,
-            "style": {
-                "type": "rect",
-                "ratio": 1.755
-            },
-            "ext": ""
-        },
-        {
-            "key": "local_[Aure][影¹⁸]5X社区",
-            "name": "[Aure][影¹⁸]5X社区ᵖʸ",
-            "type": 3,
-            "api": "./File/py/Abalone/[Aure][影¹⁸]5X社区.py",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "order_num": 0,
-            "style": {
-                "type": "rect",
-                "ratio": 1.755
-            },
-            "ext": ""
-        },
-        {
-            "key": "local_[Aure][影¹⁸]HoHoJ",
-            "name": "[Aure][影¹⁸]HoHoJᵖʸ",
-            "type": 3,
-            "api": "./File/py/Abalone/[Aure][影¹⁸]HoHoJ.py",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "order_num": 0,
-            "style": {
-                "type": "rect",
-                "ratio": 1.755
-            },
-            "ext": ""
-        },
-        {
-            "key": "local_[Aure][影¹⁸]Hubff",
-            "name": "[Aure][影¹⁸]Hubffᵖʸ",
-            "type": 3,
-            "api": "./File/py/Abalone/[Aure][影¹⁸]Hubff.py",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "order_num": 0,
-            "style": {
-                "type": "rect",
-                "ratio": 1.755
-            },
-            "ext": ""
-        },
-        {
-            "key": "local_[Aure][影¹⁸]JAVDAY",
-            "name": "[Aure][影¹⁸]JAVDAYᵖʸ",
-            "type": 3,
-            "api": "./File/py/Abalone/[Aure][影¹⁸]JAVDAY.py",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "order_num": 0,
-            "style": {
-                "type": "rect",
-                "ratio": 1.755
-            },
-            "ext": ""
-        },
-        {
-            "key": "local_[Aure][影¹⁸]Jable",
-            "name": "[Aure][影¹⁸]Jableᵖʸ",
-            "type": 3,
-            "api": "./File/py/Abalone/[Aure][影¹⁸]Jable.py",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "order_num": 0,
-            "style": {
-                "type": "rect",
-                "ratio": 1.755
-            },
-            "ext": ""
-        },
-        {
-            "key": "local_[Aure][影¹⁸]Javtiful",
-            "name": "[Aure][影¹⁸]Javtifulᵖʸ",
-            "type": 3,
-            "api": "./File/py/Abalone/[Aure][影¹⁸]Javtiful.py",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "order_num": 0,
-            "style": {
-                "type": "rect",
-                "ratio": 1.755
-            },
-            "ext": ""
-        },
-        {
-            "key": "local_[Aure][影¹⁸]LissAV",
-            "name": "[Aure][影¹⁸]LissAVᵖʸ",
-            "type": 3,
-            "api": "./File/py/Abalone/[Aure][影¹⁸]LissAV.py",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "order_num": 0,
-            "style": {
-                "type": "rect",
-                "ratio": 1.755
-            },
-            "ext": ""
-        },
-        {
-            "key": "local_[Aure][影¹⁸]SUPJAV",
-            "name": "[Aure][影¹⁸]SUPJAVᵖʸ",
-            "type": 3,
-            "api": "./File/py/Abalone/[Aure][影¹⁸]SUPJAV.py",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "order_num": 0,
-            "style": {
-                "type": "rect",
-                "ratio": 1.755
-            },
-            "ext": ""
-        },
-        {
-            "key": "local_[Aure][影¹⁸]SupjavWP",
-            "name": "[Aure][影¹⁸]SupjavWPᵖʸ",
-            "type": 3,
-            "api": "./File/py/Abalone/[Aure][影¹⁸]SupjavWP.py",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "order_num": 0,
-            "style": {
-                "type": "rect",
-                "ratio": 1.755
-            },
-            "ext": ""
-        },
-        {
-            "key": "local_[Aure][影¹⁸]XOJAV",
-            "name": "[Aure][影¹⁸]XOJAVᵖʸ",
-            "type": 3,
-            "api": "./File/py/Abalone/[Aure][影¹⁸]XOJAV.py",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "order_num": 0,
-            "style": {
-                "type": "rect",
-                "ratio": 1.755
-            },
-            "ext": ""
-        },
-        {
-            "key": "local_[Aure][影¹⁸]fcjav",
-            "name": "[Aure][影¹⁸]fcjavᵖʸ",
-            "type": 3,
-            "api": "./File/py/Abalone/[Aure][影¹⁸]fcjav.py",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "order_num": 0,
-            "style": {
-                "type": "rect",
-                "ratio": 1.755
-            },
-            "ext": ""
-        },
-        {
-            "key": "local_[Aure][影¹⁸]xHamster",
-            "name": "[Aure][影¹⁸]xHamsterᵖʸ",
-            "type": 3,
-            "api": "./File/py/Abalone/[Aure][影¹⁸]xHamster.py",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "order_num": 0,
-            "style": {
-                "type": "rect",
-                "ratio": 1.755
-            },
-            "ext": ""
-        },
-        {
-            "key": "local_[Aure][影¹⁸]小chu女",
-            "name": "[Aure][影¹⁸]小chu女ᵖʸ",
-            "type": 3,
-            "api": "./File/py/Abalone/[Aure][影¹⁸]小chu女.py",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "order_num": 0,
-            "style": {
-                "type": "rect",
-                "ratio": 1.755
-            },
-            "ext": ""
-        },
-        {
-            "key": "local_[Aure][影¹⁸]蘑菇视频",
-            "name": "[Aure][影¹⁸]蘑菇视频ᵖʸ",
-            "type": 3,
-            "api": "./File/py/Abalone/[Aure][影¹⁸]蘑菇视频.py",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "order_num": 0,
-            "style": {
-                "type": "rect",
-                "ratio": 1.755
-            },
-            "ext": ""
-        },
-        {
-            "key": "local_[live¹⁸]EJA.TV",
-            "name": "[live¹⁸]EJA.TVᵖʸ",
-            "type": 3,
-            "api": "./File/py/Abalone/[live¹⁸]EJA.TV.py",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "order_num": 0,
-            "style": {
-                "type": "rect",
-                "ratio": 1.755
-            },
-            "ext": ""
-        },
-        {
-            "key": "local_[live¹⁸]PandaLive",
-            "name": "[live¹⁸]PandaLiveᵖʸ",
-            "type": 3,
-            "api": "./File/py/Abalone/[live¹⁸]PandaLive.py",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "order_num": 0,
-            "style": {
-                "type": "rect",
-                "ratio": 1.755
-            },
-            "ext": ""
-        },
-        {
-            "key": "local_[live¹⁸]电视直播源",
-            "name": "[live¹⁸]电视直播源ᵖʸ",
-            "type": 3,
-            "api": "./File/py/Abalone/[live¹⁸]电视直播源.py",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "order_num": 0,
-            "style": {
-                "type": "rect",
-                "ratio": 1.755
-            },
-            "ext": ""
-        },
-        {
-            "key": "local_[剧¹⁸]2048成人短剧",
-            "name": "[剧¹⁸]2048成人短剧ᵖʸ",
-            "type": 3,
-            "api": "./File/py/Abalone/[剧¹⁸]2048成人短剧.py",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "order_num": 0,
-            "style": {
-                "type": "rect",
-                "ratio": 1.755
-            },
-            "ext": ""
-        },
-        {
-            "key": "local_[剧¹⁸]51短剧",
-            "name": "[剧¹⁸]51短剧ᵖʸ",
-            "type": 3,
-            "api": "./File/py/Abalone/[剧¹⁸]51短剧.py",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "order_num": 0,
-            "style": {
-                "type": "rect",
-                "ratio": 1.755
-            },
-            "ext": ""
-        },
-        {
-            "key": "local_[剧¹⁸]91成人短剧",
-            "name": "[剧¹⁸]91成人短剧ᵖʸ",
-            "type": 3,
-            "api": "./File/py/Abalone/[剧¹⁸]91成人短剧.py",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "order_num": 0,
-            "style": {
-                "type": "rect",
-                "ratio": 1.755
-            },
-            "ext": ""
-        },
-        {
-            "key": "local_[剧¹⁸]91短剧",
-            "name": "[剧¹⁸]91短剧ᵖʸ",
-            "type": 3,
-            "api": "./File/py/Abalone/[剧¹⁸]91短剧.py",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "order_num": 0,
-            "style": {
-                "type": "rect",
-                "ratio": 1.755
-            },
-            "ext": ""
-        },
-        {
-            "key": "local_[剧¹⁸]剧屋影视",
-            "name": "[剧¹⁸]剧屋影视ᵖʸ",
-            "type": 3,
-            "api": "./File/py/Abalone/[剧¹⁸]剧屋影视.py",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "order_num": 0,
-            "style": {
-                "type": "rect",
-                "ratio": 1.755
-            },
-            "ext": ""
-        },
-        {
-            "key": "local_[剧¹⁸]多聚短剧",
-            "name": "[剧¹⁸]多聚短剧ᵖʸ",
-            "type": 3,
-            "api": "./File/py/Abalone/[剧¹⁸]多聚短剧.py",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "order_num": 0,
-            "style": {
-                "type": "rect",
-                "ratio": 1.755
-            },
-            "ext": ""
-        },
-        {
-            "key": "local_[剧¹⁸]橙果短剧",
-            "name": "[剧¹⁸]橙果短剧ᵖʸ",
-            "type": 3,
-            "api": "./File/py/Abalone/[剧¹⁸]橙果短剧.py",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "order_num": 0,
-            "style": {
-                "type": "rect",
-                "ratio": 1.755
-            },
-            "ext": ""
-        },
-        {
-            "key": "local_[剧¹⁸]狂飙短剧",
-            "name": "[剧¹⁸]狂飙短剧ᵖʸ",
-            "type": 3,
-            "api": "./File/py/Abalone/[剧¹⁸]狂飙短剧.py",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "order_num": 0,
-            "style": {
-                "type": "rect",
-                "ratio": 1.755
-            },
-            "ext": ""
-        },
-        {
-            "key": "local_[剧¹⁸]真果鉴",
-            "name": "[剧¹⁸]真果鉴ᵖʸ",
-            "type": 3,
-            "api": "./File/py/Abalone/[剧¹⁸]真果鉴.py",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "order_num": 0,
-            "style": {
-                "type": "rect",
-                "ratio": 1.755
-            },
-            "ext": ""
-        },
-        {
-            "key": "local_[剧¹⁸]禁果短剧",
-            "name": "[剧¹⁸]禁果短剧ᵖʸ",
-            "type": 3,
-            "api": "./File/py/Abalone/[剧¹⁸]禁果短剧.py",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "order_num": 0,
-            "style": {
-                "type": "rect",
-                "ratio": 1.755
-            },
-            "ext": ""
-        },
-        {
-            "key": "local_[剧¹⁸]糯米短剧",
-            "name": "[剧¹⁸]糯米短剧ᵖʸ",
-            "type": 3,
-            "api": "./File/py/Abalone/[剧¹⁸]糯米短剧.py",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "order_num": 0,
-            "style": {
-                "type": "rect",
-                "ratio": 1.755
-            },
-            "ext": ""
-        },
-        {
-            "key": "local_[剧¹⁸]肉视频",
-            "name": "[剧¹⁸]肉视频ᵖʸ",
-            "type": 3,
-            "api": "./File/py/Abalone/[剧¹⁸]肉视频.py",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "order_num": 0,
-            "style": {
-                "type": "rect",
-                "ratio": 1.755
-            },
-            "ext": ""
-        },
-        {
-            "key": "local_[剧¹⁸]红果黄剧",
-            "name": "[剧¹⁸]红果黄剧ᵖʸ",
-            "type": 3,
-            "api": "./File/py/Abalone/[剧¹⁸]红果黄剧.py",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "order_num": 0,
-            "style": {
-                "type": "rect",
-                "ratio": 1.755
-            },
-            "ext": ""
-        },
-        {
-            "key": "local_[剧¹⁸]黄豆短剧",
-            "name": "[剧¹⁸]黄豆短剧ᵖʸ",
-            "type": 3,
-            "api": "./File/py/Abalone/[剧¹⁸]黄豆短剧.py",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "order_num": 0,
-            "style": {
-                "type": "rect",
-                "ratio": 1.755
-            },
-            "ext": ""
-        },
-        {
-            "key": "local_[影]牛牛视频",
-            "name": "[影]牛牛视频ᵖʸ",
-            "type": 3,
-            "api": "./File/py/Abalone/[影]牛牛视频.py",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "order_num": 0,
-            "style": {
-                "type": "rect",
-                "ratio": 1.755
-            },
-            "ext": ""
-        },
-        {
-            "key": "local_[影¹⁸]134X",
-            "name": "[影¹⁸]134Xᵖʸ",
-            "type": 3,
-            "api": "./File/py/Abalone/[影¹⁸]134X.py",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "order_num": 0,
-            "style": {
-                "type": "rect",
-                "ratio": 1.755
-            },
-            "ext": ""
-        },
-        {
-            "key": "local_[影¹⁸]18jspa",
-            "name": "[影¹⁸]18jspaᵖʸ",
-            "type": 3,
-            "api": "./File/py/Abalone/[影¹⁸]18jspa.py",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "order_num": 0,
-            "style": {
-                "type": "rect",
-                "ratio": 1.755
-            },
-            "ext": ""
-        },
-        {
-            "key": "local_[影¹⁸]338TV",
-            "name": "[影¹⁸]338TVᵖʸ",
-            "type": 3,
-            "api": "./File/py/Abalone/[影¹⁸]338TV.py",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "order_num": 0,
-            "style": {
-                "type": "rect",
-                "ratio": 1.755
-            },
-            "ext": ""
-        },
-        {
-            "key": "local_[影¹⁸]4k日本动漫",
-            "name": "[影¹⁸]4k日本动漫ᵖʸ",
-            "type": 3,
-            "api": "./File/py/Abalone/[影¹⁸]4k日本动漫.py",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "order_num": 0,
-            "style": {
-                "type": "rect",
-                "ratio": 1.755
-            },
-            "ext": ""
-        },
-        {
-            "key": "local_[影¹⁸]51吃瓜",
-            "name": "[影¹⁸]51吃瓜ᵖʸ",
-            "type": 3,
-            "api": "./File/py/Abalone/[影¹⁸]51吃瓜.py",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "order_num": 0,
-            "style": {
-                "type": "rect",
-                "ratio": 1.755
-            },
-            "ext": ""
-        },
-        {
-            "key": "local_[影¹⁸]51吸瓜",
-            "name": "[影¹⁸]51吸瓜ᵖʸ",
-            "type": 3,
-            "api": "./File/py/Abalone/[影¹⁸]51吸瓜.py",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "order_num": 0,
-            "style": {
-                "type": "rect",
-                "ratio": 1.755
-            },
-            "ext": ""
-        },
-        {
-            "key": "local_[影¹⁸]618视频",
-            "name": "[影¹⁸]618视频ᵖʸ",
-            "type": 3,
-            "api": "./File/py/Abalone/[影¹⁸]618视频.py",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "order_num": 0,
-            "style": {
-                "type": "rect",
-                "ratio": 1.755
-            },
-            "ext": ""
-        },
-        {
-            "key": "local_[影¹⁸]66在线",
-            "name": "[影¹⁸]66在线ᵖʸ",
-            "type": 3,
-            "api": "./File/py/Abalone/[影¹⁸]66在线.py",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "order_num": 0,
-            "style": {
-                "type": "rect",
-                "ratio": 1.755
-            },
-            "ext": ""
-        },
-        {
-            "key": "local_[影¹⁸]85PO",
-            "name": "[影¹⁸]85POᵖʸ",
-            "type": 3,
-            "api": "./File/py/Abalone/[影¹⁸]85PO.py",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "order_num": 0,
-            "style": {
-                "type": "rect",
-                "ratio": 1.755
-            },
-            "ext": ""
-        },
-        {
-            "key": "local_[影¹⁸]88影视",
-            "name": "[影¹⁸]88影视ᵖʸ",
-            "type": 3,
-            "api": "./File/py/Abalone/[影¹⁸]88影视.py",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "order_num": 0,
-            "style": {
-                "type": "rect",
-                "ratio": 1.755
-            },
-            "ext": ""
-        },
-        {
-            "key": "local_[影¹⁸]911爆料",
-            "name": "[影¹⁸]911爆料ᵖʸ",
-            "type": 3,
-            "api": "./File/py/Abalone/[影¹⁸]911爆料.py",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "order_num": 0,
-            "style": {
-                "type": "rect",
-                "ratio": 1.755
-            },
-            "ext": ""
-        },
-        {
-            "key": "local_[影¹⁸]91PornA",
-            "name": "[影¹⁸]91PornAᵖʸ",
-            "type": 3,
-            "api": "./File/py/Abalone/[影¹⁸]91PornA.py",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "order_num": 0,
-            "style": {
-                "type": "rect",
-                "ratio": 1.755
-            },
-            "ext": ""
-        },
-        {
-            "key": "local_[影¹⁸]91porn",
-            "name": "[影¹⁸]91pornᵖʸ",
-            "type": 3,
-            "api": "./File/py/Abalone/[影¹⁸]91porn.py",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "order_num": 0,
-            "style": {
-                "type": "rect",
-                "ratio": 1.755
-            },
-            "ext": ""
-        },
-        {
-            "key": "local_[影¹⁸]93合1",
-            "name": "[影¹⁸]93合1ᵖʸ",
-            "type": 3,
-            "api": "./File/py/Abalone/[影¹⁸]93合1.py",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "order_num": 0,
-            "style": {
-                "type": "rect",
-                "ratio": 1.755
-            },
-            "ext": ""
-        },
-        {
-            "key": "local_[影¹⁸]ABJAV",
-            "name": "[影¹⁸]ABJAVᵖʸ",
-            "type": 3,
-            "api": "./File/py/Abalone/[影¹⁸]ABJAV.py",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "order_num": 0,
-            "style": {
-                "type": "rect",
-                "ratio": 1.755
-            },
-            "ext": ""
-        },
-        {
-            "key": "local_[影¹⁸]AVJOY",
-            "name": "[影¹⁸]AVJOYᵖʸ",
-            "type": 3,
-            "api": "./File/py/Abalone/[影¹⁸]AVJOY.py",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "order_num": 0,
-            "style": {
-                "type": "rect",
-                "ratio": 1.755
-            },
-            "ext": ""
-        },
-        {
-            "key": "local_[影¹⁸]AV星球",
-            "name": "[影¹⁸]AV星球ᵖʸ",
-            "type": 3,
-            "api": "./File/py/Abalone/[影¹⁸]AV星球.py",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "order_num": 0,
-            "style": {
-                "type": "rect",
-                "ratio": 1.755
-            },
-            "ext": ""
-        },
-        {
-            "key": "local_[影¹⁸]BOSSTV",
-            "name": "[影¹⁸]BOSSTVᵖʸ",
-            "type": 3,
-            "api": "./File/py/Abalone/[影¹⁸]BOSSTV.py",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "order_num": 0,
-            "style": {
-                "type": "rect",
-                "ratio": 1.755
-            },
-            "ext": ""
-        },
-        {
-            "key": "local_[影¹⁸]AnimeSex",
-            "name": "[影¹⁸]AnimeSexᵖʸ",
-            "type": 3,
-            "api": "./File/py/Abalone/[影¹⁸]AnimeSex.py",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "order_num": 0,
-            "style": {
-                "type": "rect",
-                "ratio": 1.755
-            },
-            "ext": ""
-        },
-        {
-            "key": "local_[影¹⁸]BZSP005",
-            "name": "[影¹⁸]BZSP005ᵖʸ",
-            "type": 3,
-            "api": "./File/py/Abalone/[影¹⁸]BZSP005.py",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "order_num": 0,
-            "style": {
-                "type": "rect",
-                "ratio": 1.755
-            },
-            "ext": ""
-        },
-        {
-            "key": "local_[影¹⁸]BadNews",
-            "name": "[影¹⁸]BadNewsᵖʸ",
-            "type": 3,
-            "api": "./File/py/Abalone/[影¹⁸]BadNews.py",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "order_num": 0,
-            "style": {
-                "type": "rect",
-                "ratio": 1.755
-            },
-            "ext": ""
-        },
-        {
-            "key": "local_[影¹⁸]BestJavPorn",
-            "name": "[影¹⁸]BestJavPornᵖʸ",
-            "type": 3,
-            "api": "./File/py/Abalone/[影¹⁸]BestJavPorn.py",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "order_num": 0,
-            "style": {
-                "type": "rect",
-                "ratio": 1.755
-            },
-            "ext": ""
-        },
-        {
-            "key": "local_[影¹⁸]CEOTV",
-            "name": "[影¹⁸]CEOTVᵖʸ",
-            "type": 3,
-            "api": "./File/py/Abalone/[影¹⁸]CEOTV.py",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "order_num": 0,
-            "style": {
-                "type": "rect",
-                "ratio": 1.755
-            },
-            "ext": ""
-        },
-        {
-            "key": "local_[影¹⁸]EbonyGalore",
-            "name": "[影¹⁸]EbonyGaloreᵖʸ",
-            "type": 3,
-            "api": "./File/py/Abalone/[影¹⁸]EbonyGalore.py",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "order_num": 0,
-            "style": {
-                "type": "rect",
-                "ratio": 1.755
-            },
-            "ext": ""
-        },
-        {
-            "key": "local_[影¹⁸]Hanime1",
-            "name": "[影¹⁸]Hanime1ᵖʸ",
-            "type": 3,
-            "api": "./File/py/Abalone/[影¹⁸]Hanime1.py",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "order_num": 0,
-            "style": {
-                "type": "rect",
-                "ratio": 1.755
-            },
-            "ext": ""
-        },
-        {
-            "key": "local_[影¹⁸]MissAV",
-            "name": "[影¹⁸]MissAVᵖʸ",
-            "type": 3,
-            "api": "./File/py/Abalone/[影¹⁸]MissAV.py",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "order_num": 0,
-            "style": {
-                "type": "rect",
-                "ratio": 1.755
-            },
-            "ext": ""
-        },
-        {
-            "key": "local_[影¹⁸]PigAV",
-            "name": "[影¹⁸]PigAVᵖʸ",
-            "type": 3,
-            "api": "./File/py/Abalone/[影¹⁸]PigAV.py",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "order_num": 0,
-            "style": {
-                "type": "rect",
-                "ratio": 1.755
-            },
-            "ext": ""
-        },
-        {
-            "key": "local_[影¹⁸]PornTok",
-            "name": "[影¹⁸]PornTokᵖʸ",
-            "type": 3,
-            "api": "./File/py/Abalone/[影¹⁸]PornTok.py",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "order_num": 0,
-            "style": {
-                "type": "rect",
-                "ratio": 1.755
-            },
-            "ext": ""
-        },
-        {
-            "key": "local_[影¹⁸]Px8x",
-            "name": "[影¹⁸]Px8xᵖʸ",
-            "type": 3,
-            "api": "./File/py/Abalone/[影¹⁸]Px8x.py",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "order_num": 0,
-            "style": {
-                "type": "rect",
-                "ratio": 1.755
-            },
-            "ext": ""
-        },
-        {
-            "key": "local_[影¹⁸]TOPTV",
-            "name": "[影¹⁸]TOPTVᵖʸ",
-            "type": 3,
-            "api": "./File/py/Abalone/[影¹⁸]TOPTV.py",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "order_num": 0,
-            "style": {
-                "type": "rect",
-                "ratio": 1.755
-            },
-            "ext": ""
-        },
-        {
-            "key": "local_[影¹⁸]Twitter精选",
-            "name": "[影¹⁸]Twitter精选ᵖʸ",
-            "type": 3,
-            "api": "./File/py/Abalone/[影¹⁸]Twitter精选.py",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "order_num": 0,
-            "style": {
-                "type": "rect",
-                "ratio": 1.755
-            },
-            "ext": ""
-        },
-        {
-            "key": "local_[影¹⁸]UU视频",
-            "name": "[影¹⁸]UU视频ᵖʸ",
-            "type": 3,
-            "api": "./File/py/Abalone/[影¹⁸]UU视频.py",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "order_num": 0,
-            "style": {
-                "type": "rect",
-                "ratio": 1.755
-            },
-            "ext": ""
-        },
-        {
-            "key": "local_[影¹⁸]Vv视频",
-            "name": "[影¹⁸]Vv视频ᵖʸ",
-            "type": 3,
-            "api": "./File/py/Abalone/[影¹⁸]Vv视频.py",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "order_num": 0,
-            "style": {
-                "type": "rect",
-                "ratio": 1.755
-            },
-            "ext": ""
-        },
-        {
-            "key": "local_[影¹⁸]Waptap",
-            "name": "[影¹⁸]Waptapᵖʸ",
-            "type": 3,
-            "api": "./File/py/Abalone/[影¹⁸]Waptap.py",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "order_num": 0,
-            "style": {
-                "type": "rect",
-                "ratio": 1.755
-            },
-            "ext": ""
-        },
-        {
-            "key": "local_[影¹⁸]Xvideos",
-            "name": "[影¹⁸]Xvideosᵖʸ",
-            "type": 3,
-            "api": "./File/py/Abalone/[影¹⁸]Xvideos.py",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "order_num": 0,
-            "style": {
-                "type": "rect",
-                "ratio": 1.755
-            },
-            "ext": ""
-        },
-        {
-            "key": "local_[影¹⁸]X红颜",
-            "name": "[影¹⁸]X红颜ᵖʸ",
-            "type": 3,
-            "api": "./File/py/Abalone/[影¹⁸]X红颜.py",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "order_num": 0,
-            "style": {
-                "type": "rect",
-                "ratio": 1.755
-            },
-            "ext": ""
-        },
-        {
-            "key": "local_[影¹⁸]YouTube",
-            "name": "[影¹⁸]YouTubeᵖʸ",
-            "type": 3,
-            "api": "./File/py/Abalone/[影¹⁸]YouTube.py",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "order_num": 0,
-            "style": {
-                "type": "rect",
-                "ratio": 1.755
-            },
-            "ext": ""
-        },
-        {
-            "key": "local_[影¹⁸]block51",
-            "name": "[影¹⁸]block51ᵖʸ",
-            "type": 3,
-            "api": "./File/py/Abalone/[影¹⁸]block51.py",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "order_num": 0,
-            "style": {
-                "type": "rect",
-                "ratio": 1.755
-            },
-            "ext": ""
-        },
-        {
-            "key": "local_[影¹⁸]ggjav",
-            "name": "[影¹⁸]ggjavᵖʸ",
-            "type": 3,
-            "api": "./File/py/Abalone/[影¹⁸]ggjav.py",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "order_num": 0,
-            "style": {
-                "type": "rect",
-                "ratio": 1.755
-            },
-            "ext": ""
-        },
-        {
-            "key": "local_[影¹⁸]hanime",
-            "name": "[影¹⁸]hanimeᵖʸ",
-            "type": 3,
-            "api": "./File/py/Abalone/[影¹⁸]hanime.py",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "order_num": 0,
-            "style": {
-                "type": "rect",
-                "ratio": 1.755
-            },
-            "ext": ""
-        },
-        {
-            "key": "local_[影¹⁸]hscka",
-            "name": "[影¹⁸]hsckaᵖʸ",
-            "type": 3,
-            "api": "./File/py/Abalone/[影¹⁸]hscka.py",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "order_num": 0,
-            "style": {
-                "type": "rect",
-                "ratio": 1.755
-            },
-            "ext": ""
-        },
-        {
-            "key": "local_[影¹⁸]mjv011",
-            "name": "[影¹⁸]mjv011ᵖʸ",
-            "type": 3,
-            "api": "./File/py/Abalone/[影¹⁸]mjv011.py",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "order_num": 0,
-            "style": {
-                "type": "rect",
-                "ratio": 1.755
-            },
-            "ext": ""
-        },
-        {
-            "key": "local_[影¹⁸]owoav",
-            "name": "[影¹⁸]owoavᵖʸ",
-            "type": 3,
-            "api": "./File/py/Abalone/[影¹⁸]owoav.py",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "order_num": 0,
-            "style": {
-                "type": "rect",
-                "ratio": 1.755
-            },
-            "ext": ""
-        },
-        {
-            "key": "local_[影¹⁸]lu上天",
-            "name": "[影¹⁸]lu上天ᵖʸ",
-            "type": 3,
-            "api": "./File/py/Abalone/[影¹⁸]lu上天.py",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "order_num": 0,
-            "style": {
-                "type": "rect",
-                "ratio": 1.755
-            },
-            "ext": ""
-        },
-        {
-            "key": "local_[影¹⁸]pornav",
-            "name": "[影¹⁸]pornavᵖʸ",
-            "type": 3,
-            "api": "./File/py/Abalone/[影¹⁸]pornav.py",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "order_num": 0,
-            "style": {
-                "type": "rect",
-                "ratio": 1.755
-            },
-            "ext": ""
-        },
-        {
-            "key": "local_[影¹⁸]rolizxwnoble",
-            "name": "[影¹⁸]rolizxwnobleᵖʸ",
-            "type": 3,
-            "api": "./File/py/Abalone/[影¹⁸]rolizxwnoble.py",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "order_num": 0,
-            "style": {
-                "type": "rect",
-                "ratio": 1.755
-            },
-            "ext": ""
-        },
-        {
-            "key": "local_[影¹⁸]shaofu36",
-            "name": "[影¹⁸]shaofu36ᵖʸ",
-            "type": 3,
-            "api": "./File/py/Abalone/[影¹⁸]shaofu36.py",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "order_num": 0,
-            "style": {
-                "type": "rect",
-                "ratio": 1.755
-            },
-            "ext": ""
-        },
-        {
-            "key": "local_[影¹⁸]xn69",
-            "name": "[影¹⁸]xn69ᵖʸ",
-            "type": 3,
-            "api": "./File/py/Abalone/[影¹⁸]xn69.py",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "order_num": 0,
-            "style": {
-                "type": "rect",
-                "ratio": 1.755
-            },
-            "ext": ""
-        },
-        {
-            "key": "local_[影¹⁸]xx01",
-            "name": "[影¹⁸]xx01ᵖʸ",
-            "type": 3,
-            "api": "./File/py/Abalone/[影¹⁸]xx01.py",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "order_num": 0,
-            "style": {
-                "type": "rect",
-                "ratio": 1.755
-            },
-            "ext": ""
-        },
-        {
-            "key": "local_[影¹⁸]xx9",
-            "name": "[影¹⁸]xx9ᵖʸ",
-            "type": 3,
-            "api": "./File/py/Abalone/[影¹⁸]xx9.py",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "order_num": 0,
-            "style": {
-                "type": "rect",
-                "ratio": 1.755
-            },
-            "ext": ""
-        },
-        {
-            "key": "local_[影¹⁸]youav",
-            "name": "[影¹⁸]youavᵖʸ",
-            "type": 3,
-            "api": "./File/py/Abalone/[影¹⁸]youav.py",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "order_num": 0,
-            "style": {
-                "type": "rect",
-                "ratio": 1.755
-            },
-            "ext": ""
-        },
-        {
-            "key": "local_[影¹⁸]久久网",
-            "name": "[影¹⁸]久久网ᵖʸ",
-            "type": 3,
-            "api": "./File/py/Abalone/[影¹⁸]久久网.py",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "order_num": 0,
-            "style": {
-                "type": "rect",
-                "ratio": 1.755
-            },
-            "ext": ""
-        },
-        {
-            "key": "local_[影¹⁸]乱伦淫窝",
-            "name": "[影¹⁸]乱伦淫窝ᵖʸ",
-            "type": 3,
-            "api": "./File/py/Abalone/[影¹⁸]乱伦淫窝.py",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "order_num": 0,
-            "style": {
-                "type": "rect",
-                "ratio": 1.755
-            },
-            "ext": ""
-        },
-        {
-            "key": "local_[影¹⁸]九合一",
-            "name": "[影¹⁸]九合一ᵖʸ",
-            "type": 3,
-            "api": "./File/py/Abalone/[影¹⁸]九合一.py",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "order_num": 0,
-            "style": {
-                "type": "rect",
-                "ratio": 1.755
-            },
-            "ext": ""
-        },
-        {
-            "key": "local_[影¹⁸]免费少女",
-            "name": "[影¹⁸]免费少女ᵖʸ",
-            "type": 3,
-            "api": "./File/py/Abalone/[影¹⁸]免费少女.py",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "order_num": 0,
-            "style": {
-                "type": "rect",
-                "ratio": 1.755
-            },
-            "ext": ""
-        },
-        {
-            "key": "local_[影¹⁸]原创辣妹",
-            "name": "[影¹⁸]原创辣妹ᵖʸ",
-            "type": 3,
-            "api": "./File/py/Abalone/[影¹⁸]原创辣妹.py",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "order_num": 0,
-            "style": {
-                "type": "rect",
-                "ratio": 1.755
-            },
-            "ext": ""
-        },
-        {
-            "key": "local_[影¹⁸]吉利猫",
-            "name": "[影¹⁸]吉利猫ᵖʸ",
-            "type": 3,
-            "api": "./File/py/Abalone/[影¹⁸]吉利猫.py",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "order_num": 0,
-            "style": {
-                "type": "rect",
-                "ratio": 1.755
-            },
-            "ext": ""
-        },
-        {
-            "key": "local_[影¹⁸]夜勾心事",
-            "name": "[影¹⁸]夜勾心事ᵖʸ",
-            "type": 3,
-            "api": "./File/py/Abalone/[影¹⁸]夜勾心事.py",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "order_num": 0,
-            "style": {
-                "type": "rect",
-                "ratio": 1.755
-            },
-            "ext": ""
-        },
-        {
-            "key": "local_[影¹⁸]天天A片",
-            "name": "[影¹⁸]天天A片ᵖʸ",
-            "type": 3,
-            "api": "./File/py/Abalone/[影¹⁸]天天A片.py",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "order_num": 0,
-            "style": {
-                "type": "rect",
-                "ratio": 1.755
-            },
-            "ext": ""
-        },
-        {
-            "key": "local_[影¹⁸]学生合集",
-            "name": "[影¹⁸]学生合集ᵖʸ",
-            "type": 3,
-            "api": "./File/py/Abalone/[影¹⁸]学生合集.py",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "order_num": 0,
-            "style": {
-                "type": "rect",
-                "ratio": 1.755
-            },
-            "ext": ""
-        },
-        {
-            "key": "local_[影¹⁸]小汤圆视频",
-            "name": "[影¹⁸]小汤圆视频ᵖʸ",
-            "type": 3,
-            "api": "./File/py/Abalone/[影¹⁸]小汤圆视频.py",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "order_num": 0,
-            "style": {
-                "type": "rect",
-                "ratio": 1.755
-            },
-            "ext": ""
-        },
-        {
-            "key": "local_[影¹⁸]少女破处",
-            "name": "[影¹⁸]少女破处ᵖʸ",
-            "type": 3,
-            "api": "./File/py/Abalone/[影¹⁸]少女破处.py",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "order_num": 0,
-            "style": {
-                "type": "rect",
-                "ratio": 1.755
-            },
-            "ext": ""
-        },
-        {
-            "key": "local_[影¹⁸]快乐星球",
-            "name": "[影¹⁸]快乐星球ᵖʸ",
-            "type": 3,
-            "api": "./File/py/Abalone/[影¹⁸]快乐星球.py",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "order_num": 0,
-            "style": {
-                "type": "rect",
-                "ratio": 1.755
-            },
-            "ext": ""
-        },
-        {
-            "key": "local_[影¹⁸]怦然心动",
-            "name": "[影¹⁸]怦然心动ᵖʸ",
-            "type": 3,
-            "api": "./File/py/Abalone/[影¹⁸]怦然心动.py",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "order_num": 0,
-            "style": {
-                "type": "rect",
-                "ratio": 1.755
-            },
-            "ext": ""
-        },
-        {
-            "key": "local_[影¹⁸]快感研究所",
-            "name": "[影¹⁸]快感研究所ᵖʸ",
-            "type": 3,
-            "api": "./File/py/Abalone/[影¹⁸]快感研究所.py",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "order_num": 0,
-            "style": {
-                "type": "rect",
-                "ratio": 1.755
-            },
-            "ext": ""
-        },
-        {
-            "key": "local_[影¹⁸]成人卡通",
-            "name": "[影¹⁸]成人卡通ᵖʸ",
-            "type": 3,
-            "api": "./File/py/Abalone/[影¹⁸]成人卡通.py",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "order_num": 0,
-            "style": {
-                "type": "rect",
-                "ratio": 1.755
-            },
-            "ext": ""
-        },
-        {
-            "key": "local_[影¹⁸]抖阴",
-            "name": "[影¹⁸]抖阴ᵖʸ",
-            "type": 3,
-            "api": "./File/py/Abalone/[影¹⁸]抖阴.py",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "order_num": 0,
-            "style": {
-                "type": "rect",
-                "ratio": 1.755
-            },
-            "ext": ""
-        },
-        {
-            "key": "local_[影¹⁸]搜搜啪",
-            "name": "[影¹⁸]搜搜啪ᵖʸ",
-            "type": 3,
-            "api": "./File/py/Abalone/[影¹⁸]搜搜啪.py",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "order_num": 0,
-            "style": {
-                "type": "rect",
-                "ratio": 1.755
-            },
-            "ext": ""
-        },
-        {
-            "key": "local_[影¹⁸]海角乱伦",
-            "name": "[影¹⁸]海角乱伦ᵖʸ",
-            "type": 3,
-            "api": "./File/py/Abalone/[影¹⁸]海角乱伦.py",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "order_num": 0,
-            "style": {
-                "type": "rect",
-                "ratio": 1.755
-            },
-            "ext": ""
-        },
-        {
-            "key": "local_[影¹⁸]淫花宫",
-            "name": "[影¹⁸]淫花宫ᵖʸ",
-            "type": 3,
-            "api": "./File/py/Abalone/[影¹⁸]淫花宫.py",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "order_num": 0,
-            "style": {
-                "type": "rect",
-                "ratio": 1.755
-            },
-            "ext": ""
-        },
-        {
-            "key": "local_[影¹⁸]玩物社区",
-            "name": "[影¹⁸]玩物社区ᵖʸ",
-            "type": 3,
-            "api": "./File/py/Abalone/[影¹⁸]玩物社区.py",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "order_num": 0,
-            "style": {
-                "type": "rect",
-                "ratio": 1.755
-            },
-            "ext": ""
-        },
-        {
-            "key": "local_[影¹⁸]甜蜜桃源",
-            "name": "[影¹⁸]甜蜜桃源ᵖʸ",
-            "type": 3,
-            "api": "./File/py/Abalone/[影¹⁸]甜蜜桃源.py",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "order_num": 0,
-            "style": {
-                "type": "rect",
-                "ratio": 1.755
-            },
-            "ext": ""
-        },
-        {
-            "key": "local_[影¹⁸]禁片天堂",
-            "name": "[影¹⁸]禁片天堂ᵖʸ",
-            "type": 3,
-            "api": "./File/py/Abalone/[影¹⁸]禁片天堂.py",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "order_num": 0,
-            "style": {
-                "type": "rect",
-                "ratio": 1.755
-            },
-            "ext": ""
-        },
-        {
-            "key": "local_[影¹⁸]红裹视频",
-            "name": "[影¹⁸]红裹视频ᵖʸ",
-            "type": 3,
-            "api": "./File/py/Abalone/[影¹⁸]红裹视频.py",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "order_num": 0,
-            "style": {
-                "type": "rect",
-                "ratio": 1.755
-            },
-            "ext": ""
-        },
-        {
-            "key": "local_[影¹⁸]精仙阁",
-            "name": "[影¹⁸]精仙阁ᵖʸ",
-            "type": 3,
-            "api": "./File/py/Abalone/[影¹⁸]精仙阁.py",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "order_num": 0,
-            "style": {
-                "type": "rect",
-                "ratio": 1.755
-            },
-            "ext": ""
-        },
-        {
-            "key": "local_[影¹⁸]经典老片",
-            "name": "[影¹⁸]经典老片ᵖʸ",
-            "type": 3,
-            "api": "./File/py/Abalone/[影¹⁸]经典老片.py",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "order_num": 0,
-            "style": {
-                "type": "rect",
-                "ratio": 1.755
-            },
-            "ext": ""
-        },
-        {
-            "key": "local_[影¹⁸]美人姬",
-            "name": "[影¹⁸]美人姬ᵖʸ",
-            "type": 3,
-            "api": "./File/py/Abalone/[影¹⁸]美人姬.py",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "order_num": 0,
-            "style": {
-                "type": "rect",
-                "ratio": 1.755
-            },
-            "ext": ""
-        },
-        {
-            "key": "local_[影¹⁸]色情探针",
-            "name": "[影¹⁸]色情探针ᵖʸ",
-            "type": 3,
-            "api": "./File/py/Abalone/[影¹⁸]色情探针.py",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "order_num": 0,
-            "style": {
-                "type": "rect",
-                "ratio": 1.755
-            },
-            "ext": ""
-        },
-        {
-            "key": "local_[影¹⁸]色播聚合",
-            "name": "[影¹⁸]色播聚合ᵖʸ",
-            "type": 3,
-            "api": "./File/py/Abalone/[影¹⁸]色播聚合.py",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "order_num": 0,
-            "style": {
-                "type": "rect",
-                "ratio": 1.755
-            },
-            "ext": ""
-        },
-        {
-            "key": "local_[影¹⁸]花真好影视",
-            "name": "[影¹⁸]花真好影视ᵖʸ",
-            "type": 3,
-            "api": "./File/py/Abalone/[影¹⁸]花真好影视.py",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "order_num": 0,
-            "style": {
-                "type": "rect",
-                "ratio": 1.755
-            },
-            "ext": ""
-        },
-        {
-            "key": "local_[影¹⁸]花街影院",
-            "name": "[影¹⁸]花街影院ᵖʸ",
-            "type": 3,
-            "api": "./File/py/Abalone/[影¹⁸]花街影院.py",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "order_num": 0,
-            "style": {
-                "type": "rect",
-                "ratio": 1.755
-            },
-            "ext": ""
-        },
-        {
-            "key": "local_[影¹⁸]茄子精品",
-            "name": "[影¹⁸]茄子精品ᵖʸ",
-            "type": 3,
-            "api": "./File/py/Abalone/[影¹⁸]茄子精品.py",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "order_num": 0,
-            "style": {
-                "type": "rect",
-                "ratio": 1.755
-            },
-            "ext": ""
-        },
-        {
-            "key": "local_[影¹⁸]萝莉岛",
-            "name": "[影¹⁸]萝莉岛ᵖʸ",
-            "type": 3,
-            "api": "./File/py/Abalone/[影¹⁸]萝莉岛.py",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "order_num": 0,
-            "style": {
-                "type": "rect",
-                "ratio": 1.755
-            },
-            "ext": ""
-        },
-        {
-            "key": "local_[影¹⁸]采集合集",
-            "name": "[影¹⁸]采集合集ᵖʸ",
-            "type": 3,
-            "api": "./File/py/Abalone/[影¹⁸]采集合集.py",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "order_num": 0,
-            "style": {
-                "type": "rect",
-                "ratio": 1.755
-            },
-            "ext": ""
-        },
-        {
-            "key": "local_[影¹⁸]采集聚合成人",
-            "name": "[影¹⁸]采集聚合成人ᵖʸ",
-            "type": 3,
-            "api": "./File/py/Abalone/[影¹⁸]采集聚合成人.py",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "order_num": 0,
-            "style": {
-                "type": "rect",
-                "ratio": 1.755
-            },
-            "ext": ""
-        },
-        {
-            "key": "local_[影¹⁸]阅妹阁",
-            "name": "[影¹⁸]阅妹阁ᵖʸ",
-            "type": 3,
-            "api": "./File/py/Abalone/[影¹⁸]阅妹阁.py",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "order_num": 0,
-            "style": {
-                "type": "rect",
-                "ratio": 1.755
-            },
-            "ext": ""
-        },
-        {
-            "key": "local_[影¹⁸]陌陌交友",
-            "name": "[影¹⁸]陌陌交友ᵖʸ",
-            "type": 3,
-            "api": "./File/py/Abalone/[影¹⁸]陌陌交友.py",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "order_num": 0,
-            "style": {
-                "type": "rect",
-                "ratio": 1.755
-            },
-            "ext": ""
-        },
-        {
-            "key": "local_[影¹⁸]韩三伦理",
-            "name": "[影¹⁸]韩三伦理ᵖʸ",
-            "type": 3,
-            "api": "./File/py/Abalone/[影¹⁸]韩三伦理.py",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "order_num": 0,
-            "style": {
-                "type": "rect",
-                "ratio": 1.755
-            },
-            "ext": ""
-        },
-        {
-            "key": "local_[影¹⁸]黄瓜视频",
-            "name": "[影¹⁸]黄瓜视频ᵖʸ",
-            "type": 3,
-            "api": "./File/py/Abalone/[影¹⁸]黄瓜视频.py",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "order_num": 0,
-            "style": {
-                "type": "rect",
-                "ratio": 1.755
-            },
-            "ext": ""
-        },
-        {
-            "key": "local_[影¹⁸]黄色仓库",
-            "name": "[影¹⁸]黄色仓库ᵖʸ",
-            "type": 3,
-            "api": "./File/py/Abalone/[影¹⁸]黄色仓库.py",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "order_num": 0,
-            "style": {
-                "type": "rect",
-                "ratio": 1.755
-            },
-            "ext": ""
-        },
-        {
-            "key": "local_[音¹⁸]星梦ASMR",
-            "name": "[音¹⁸]星梦ASMRᵖʸ",
-            "type": 3,
-            "api": "./File/py/Abalone/[音¹⁸]星梦ASMR.py",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "order_num": 0,
-            "style": {
-                "type": "rect",
-                "ratio": 1.755
-            },
-            "ext": ""
-        },
-        {
-            "key": "local_[音¹⁸]有声骚麦",
-            "name": "[音¹⁸]有声骚麦ᵖʸ",
-            "type": 3,
-            "api": "./File/py/Abalone/[音¹⁸]有声骚麦.py",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "order_num": 0,
-            "style": {
-                "type": "rect",
-                "ratio": 1.755
-            },
-            "ext": ""
-        },
-        {
-            "key": "local_[影¹⁸]推特APP",
-            "name": "[影¹⁸]推特APPᵖʸ",
-            "type": 3,
-            "api": "./File/py/Abalone/[影¹⁸]推特APP.py",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "order_num": 0,
-            "style": {
-                "type": "rect",
-                "ratio": 1.755
-            },
-            "ext": ""
-        },
-        {
-            "key": "local_[影¹⁸]撸一天",
-            "name": "[影¹⁸]撸一天ᵖʸ",
-            "type": 3,
-            "api": "./File/py/Abalone/[影¹⁸]撸一天.py",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "order_num": 0,
-            "style": {
-                "type": "rect",
-                "ratio": 1.755
-            },
-            "ext": ""
-        },
-        {
-            "key": "local_[影¹⁸]暗夜蜜桃",
-            "name": "[影¹⁸]暗夜蜜桃ᵖʸ",
-            "type": 3,
-            "api": "./File/py/Abalone/[影¹⁸]暗夜蜜桃.py",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "order_num": 0,
-            "style": {
-                "type": "rect",
-                "ratio": 1.755
-            },
-            "ext": ""
-        },
-        {
-            "key": "local_[影¹⁸]欲望之眼",
-            "name": "[影¹⁸]欲望之眼ᵖʸ",
-            "type": 3,
-            "api": "./File/py/Abalone/[影¹⁸]欲望之眼.py",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "order_num": 0,
-            "style": {
-                "type": "rect",
-                "ratio": 1.755
-            },
-            "ext": ""
-        },
-        {
-            "key": "local_[影¹⁸]欲语心镜",
-            "name": "[影¹⁸]欲语心镜ᵖʸ",
-            "type": 3,
-            "api": "./File/py/Abalone/[影¹⁸]欲语心镜.py",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "order_num": 0,
-            "style": {
-                "type": "rect",
-                "ratio": 1.755
-            },
-            "ext": ""
-        },
-        {
-            "key": "local_[影¹⁸]浮生影院",
-            "name": "[影¹⁸]浮生影院ᵖʸ",
-            "type": 3,
-            "api": "./File/py/Abalone/[影¹⁸]浮生影院.py",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "order_num": 0,
-            "style": {
-                "type": "rect",
-                "ratio": 1.755
-            },
-            "ext": ""
-        },
-        {
-            "key": "local_[影¹⁸]海角爱",
-            "name": "[影¹⁸]海角爱ᵖʸ",
-            "type": 3,
-            "api": "./File/py/Abalone/[影¹⁸]海角爱.py",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "order_num": 0,
-            "style": {
-                "type": "rect",
-                "ratio": 1.755
-            },
-            "ext": ""
-        },
-        {
-            "key": "local_[影¹⁸]社区",
-            "name": "[影¹⁸]社区ᵖʸ",
-            "type": 3,
-            "api": "./File/py/Abalone/[影¹⁸]社区.py",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "order_num": 0,
-            "style": {
-                "type": "rect",
-                "ratio": 1.755
-            },
-            "ext": ""
-        },
-        {
-            "key": "local_[影¹⁸]神秘电影",
-            "name": "[影¹⁸]神秘电影ᵖʸ",
-            "type": 3,
-            "api": "./File/py/Abalone/[影¹⁸]神秘电影.py",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "order_num": 0,
-            "style": {
-                "type": "rect",
-                "ratio": 1.755
-            },
-            "ext": ""
-        },
-        {
-            "key": "local_[影¹⁸]章鱼Play",
-            "name": "[影¹⁸]章鱼Playᵖʸ",
-            "type": 3,
-            "api": "./File/py/Abalone/[影¹⁸]章鱼Play.py",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "order_num": 0,
-            "style": {
-                "type": "rect",
-                "ratio": 1.755
-            },
-            "ext": ""
-        },
-        {
-            "key": "local_[影¹⁸]苹果视频",
-            "name": "[影¹⁸]苹果视频ᵖʸ",
-            "type": 3,
-            "api": "./File/py/Abalone/[影¹⁸]苹果视频.py",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "order_num": 0,
-            "style": {
-                "type": "rect",
-                "ratio": 1.755
-            },
-            "ext": ""
-        },
-        {
-            "key": "local_[影¹⁸]蝙蝠视频",
-            "name": "[影¹⁸]蝙蝠视频ᵖʸ",
-            "type": 3,
-            "api": "./File/py/Abalone/[影¹⁸]蝙蝠视频.py",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "order_num": 0,
-            "style": {
-                "type": "rect",
-                "ratio": 1.755
-            },
-            "ext": ""
-        },
-        {
-            "key": "local_[影¹⁸]蝴蝶影院",
-            "name": "[影¹⁸]蝴蝶影院ᵖʸ",
-            "type": 3,
-            "api": "./File/py/Abalone/[影¹⁸]蝴蝶影院.py",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "order_num": 0,
-            "style": {
-                "type": "rect",
-                "ratio": 1.755
-            },
-            "ext": ""
-        },
-        {
-            "key": "local_[影¹⁸]黑料",
-            "name": "[影¹⁸]黑料ᵖʸ",
-            "type": 3,
-            "api": "./File/py/Abalone/[影¹⁸]黑料.py",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "order_num": 0,
-            "style": {
-                "type": "rect",
-                "ratio": 1.755
-            },
-            "ext": ""
-        },
-        {
-            "key": "local_[影¹⁸]黑料弹幕版",
-            "name": "[影¹⁸]黑料弹幕版ᵖʸ",
-            "type": 3,
-            "api": "./File/py/Abalone/[影¹⁸]黑料弹幕版.py",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "order_num": 0,
-            "style": {
-                "type": "rect",
-                "ratio": 1.755
-            },
-            "ext": ""
-        },
-        {
-            "key": "jabletv",
-            "name": "[jar]Jable",
-            "type": 3,
-            "api": "csp_JableTv",
-            "jar": "./jar/JableTv.jar",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "changeable": 0,
-            "style": {
-                "type": "rect",
-                "ratio": 1.755
-            }
-        },
-        {
-            "key": "missav",
-            "name": "[jar]Missav",
-            "type": 3,
-            "api": "csp_Missav",
-            "jar": "./jar/Missav.jar",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "changeable": 0,
-            "style": {
-                "type": "rect",
-                "ratio": 1.755
-            }
-        },
-        {
-            "key": "whostv",
-            "name": "[jar]Whostv",
-            "type": 3,
-            "api": "csp_Whostv",
-            "jar": "./jar/Whostv.jar",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "changeable": 0,
-            "style": {
-                "type": "rect",
-                "ratio": 1.755
-            }
-        },
-        {
-            "key": "supjavcom",
-            "name": "[jar]Supjav",
-            "type": 3,
-            "api": "csp_SupjavCom",
-            "jar": "./jar/SupjavCom.jar",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "changeable": 0,
-            "style": {
-                "type": "rect",
-                "ratio": 1.755
-            }
-        },
-        {
-            "key": "智能db",
-            "name": "智能db",
-            "type": 3,
-            "api": "./Source/智能db.py",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 0,
-            "ext": {
-                "proxy": {},
-                "plp": ""
-            },
-            "style": {
-                "type": "rect",
-                "ratio": 1.48
-            }
-        },
-        {
-            "key": "智能聚合",
-            "name": "꒰ঌ智能聚合໒꒱",
-            "type": 3,
-            "api": "./Source/智能聚合¹.py",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "order_num": 0,
-            "style": {
-                "type": "rect"
-            },
-            "ext": ""
-        },
-        {
-            "key": "写入器",
-            "name": "꒰ঌ写入器໒꒱",
-            "type": 3,
-            "api": "./Source/写入器¹.py"
-        },
-        {
-            "key": "本地",
-            "name": "❅本地视频",
-            "jar": "./jar/GM.jar",
-            "type": 3,
-            "api": "csp_Local"
-        }
-    ],
-    "lives":[
-        {
-            "name": "❅秘密花园",
-            "url": "https://gitee.com/sji820/des/raw/master/0.jpg",
-            "epg": "http://diyp5.112114.xyz/?ch={name}&date={date}",
-            "logo": "https://epg.112114.xyz/logo/{name}.png"
-        },
-        {
-            "name": "❅黄色",
-            "url": "https://down.nigx.cn/mpimg.cn/down.php/25da10b0cb7b90d422ae22852bd7d414.txt",
-            "header": {
-                "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36",
-                "Referer": "",
-                "cookie": ""
-            }
-        },
-        {
-            "name": "❅日本",
-            "url": "https://down.nigx.cn/raw.githubusercontent.com/luongz/iptv-jp/refs/heads/main/jp_clean.m3u",
-            "header": {
-                "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36",
-                "Referer": "",
-                "cookie": ""
-            }
-        },
-        {
-            "name": "❅日本1",
-            "url": "https://down.nigx.cn/raw.githubusercontent.com/luongz/iptv-jp/refs/heads/main/jp.m3u",
-            "header": {
-                "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36",
-                "Referer": "",
-                "cookie": ""
-            },
-            "epg": "http://diyp5.112114.xyz/?ch={name}&date={date}",
-            "logo": "http://diyp5.112114.xyz/{name}.png"
-        }
-    ]
+  "name": "Abalone",
+  "notice": "",
+  "spider": "",
+  "logo": "./logo/hunter.gif",
+  "wallpaper": "./imgs/y3.webp",
+  "sites": [
+    {
+      "key": "local_[Aure][剧¹⁸]黄果短剧",
+      "name": "[Aure][剧¹⁸]黄果短剧ᵖʸ",
+      "type": 3,
+      "api": "./File/py/Abalone/[Aure][剧¹⁸]黄果短剧.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "order_num": 0,
+      "style": {
+        "type": "rect",
+        "ratio": 1.755
+      },
+      "ext": ""
+    },
+    {
+      "key": "local_[Aure][剧¹⁸]野果短剧",
+      "name": "[Aure][剧¹⁸]野果短剧ᵖʸ",
+      "type": 3,
+      "api": "./File/py/Abalone/[Aure][剧¹⁸]野果短剧.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "order_num": 0,
+      "style": {
+        "type": "rect",
+        "ratio": 1.755
+      },
+      "ext": ""
+    },
+    {
+      "key": "local_[Aure][剧¹⁸]黄果短剧_竞速",
+      "name": "[Aure][剧¹⁸]黄果短剧_竞速ᵖʸ",
+      "type": 3,
+      "api": "./File/py/Abalone/[Aure][剧¹⁸]黄果短剧_竞速.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "order_num": 0,
+      "style": {
+        "type": "rect",
+        "ratio": 1.755
+      },
+      "ext": ""
+    },
+    {
+      "key": "local_[Aure][影¹⁸]123AV",
+      "name": "[Aure][影¹⁸]123AVᵖʸ",
+      "type": 3,
+      "api": "./File/py/Abalone/[Aure][影¹⁸]123AV.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "order_num": 0,
+      "style": {
+        "type": "rect",
+        "ratio": 1.755
+      },
+      "ext": ""
+    },
+    {
+      "key": "local_[Aure][影¹⁸]57吃瓜网",
+      "name": "[Aure][影¹⁸]57吃瓜网ᵖʸ",
+      "type": 3,
+      "api": "./File/py/Abalone/[Aure][影¹⁸]57吃瓜网.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "order_num": 0,
+      "style": {
+        "type": "rect",
+        "ratio": 1.755
+      },
+      "ext": ""
+    },
+    {
+      "key": "local_[Aure][影¹⁸]5X社区",
+      "name": "[Aure][影¹⁸]5X社区ᵖʸ",
+      "type": 3,
+      "api": "./File/py/Abalone/[Aure][影¹⁸]5X社区.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "order_num": 0,
+      "style": {
+        "type": "rect",
+        "ratio": 1.755
+      },
+      "ext": ""
+    },
+    {
+      "key": "local_[Aure][影¹⁸]GetAV",
+      "name": "[Aure][影¹⁸]GetAVᵖʸ",
+      "type": 3,
+      "api": "./File/py/Abalone/[Aure][影¹⁸]GetAV.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "order_num": 0,
+      "style": {
+        "type": "rect",
+        "ratio": 1.755
+      },
+      "ext": ""
+    },
+    {
+      "key": "local_[Aure][影¹⁸]HoHoJ",
+      "name": "[Aure][影¹⁸]HoHoJᵖʸ",
+      "type": 3,
+      "api": "./File/py/Abalone/[Aure][影¹⁸]HoHoJ.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "order_num": 0,
+      "style": {
+        "type": "rect",
+        "ratio": 1.755
+      },
+      "ext": ""
+    },
+    {
+      "key": "local_[Aure][影¹⁸]Hubff",
+      "name": "[Aure][影¹⁸]Hubffᵖʸ",
+      "type": 3,
+      "api": "./File/py/Abalone/[Aure][影¹⁸]Hubff.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "order_num": 0,
+      "style": {
+        "type": "rect",
+        "ratio": 1.755
+      },
+      "ext": ""
+    },
+    {
+      "key": "local_[Aure][影¹⁸]JAVDAY",
+      "name": "[Aure][影¹⁸]JAVDAYᵖʸ",
+      "type": 3,
+      "api": "./File/py/Abalone/[Aure][影¹⁸]JAVDAY.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "order_num": 0,
+      "style": {
+        "type": "rect",
+        "ratio": 1.755
+      },
+      "ext": ""
+    },
+    {
+      "key": "local_[Aure][影¹⁸]Jable",
+      "name": "[Aure][影¹⁸]Jableᵖʸ",
+      "type": 3,
+      "api": "./File/py/Abalone/[Aure][影¹⁸]Jable.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "order_num": 0,
+      "style": {
+        "type": "rect",
+        "ratio": 1.755
+      },
+      "ext": ""
+    },
+    {
+      "key": "local_[Aure][影¹⁸]Javtiful",
+      "name": "[Aure][影¹⁸]Javtifulᵖʸ",
+      "type": 3,
+      "api": "./File/py/Abalone/[Aure][影¹⁸]Javtiful.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "order_num": 0,
+      "style": {
+        "type": "rect",
+        "ratio": 1.755
+      },
+      "ext": ""
+    },
+    {
+      "key": "local_[Aure][影¹⁸]SupjavWP",
+      "name": "[Aure][影¹⁸]SupjavWPᵖʸ",
+      "type": 3,
+      "api": "./File/py/Abalone/[Aure][影¹⁸]SupjavWP.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "order_num": 0,
+      "style": {
+        "type": "rect",
+        "ratio": 1.755
+      },
+      "ext": ""
+    },
+    {
+      "key": "local_[Aure][影¹⁸]SUPJAV",
+      "name": "[Aure][影¹⁸]SUPJAVᵖʸ",
+      "type": 3,
+      "api": "./File/py/Abalone/[Aure][影¹⁸]SUPJAV.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "order_num": 0,
+      "style": {
+        "type": "rect",
+        "ratio": 1.755
+      },
+      "ext": ""
+    },
+    {
+      "key": "local_[Aure][影¹⁸]LissAV",
+      "name": "[Aure][影¹⁸]LissAVᵖʸ",
+      "type": 3,
+      "api": "./File/py/Abalone/[Aure][影¹⁸]LissAV.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "order_num": 0,
+      "style": {
+        "type": "rect",
+        "ratio": 1.755
+      },
+      "ext": ""
+    },
+    {
+      "key": "local_[Aure][影¹⁸]XOJAV",
+      "name": "[Aure][影¹⁸]XOJAVᵖʸ",
+      "type": 3,
+      "api": "./File/py/Abalone/[Aure][影¹⁸]XOJAV.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "order_num": 0,
+      "style": {
+        "type": "rect",
+        "ratio": 1.755
+      },
+      "ext": ""
+    },
+    {
+      "key": "local_[Aure][影¹⁸]fcjav",
+      "name": "[Aure][影¹⁸]fcjavᵖʸ",
+      "type": 3,
+      "api": "./File/py/Abalone/[Aure][影¹⁸]fcjav.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "order_num": 0,
+      "style": {
+        "type": "rect",
+        "ratio": 1.755
+      },
+      "ext": ""
+    },
+    {
+      "key": "local_[Aure][影¹⁸]xHamster",
+      "name": "[Aure][影¹⁸]xHamsterᵖʸ",
+      "type": 3,
+      "api": "./File/py/Abalone/[Aure][影¹⁸]xHamster.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "order_num": 0,
+      "style": {
+        "type": "rect",
+        "ratio": 1.755
+      },
+      "ext": ""
+    },
+    {
+      "key": "local_[Aure][影¹⁸]四虎",
+      "name": "[Aure][影¹⁸]四虎ᵖʸ",
+      "type": 3,
+      "api": "./File/py/Abalone/[Aure][影¹⁸]四虎.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "order_num": 0,
+      "style": {
+        "type": "rect",
+        "ratio": 1.755
+      },
+      "ext": ""
+    },
+    {
+      "key": "local_[Aure][影¹⁸]小chu女",
+      "name": "[Aure][影¹⁸]小chu女ᵖʸ",
+      "type": 3,
+      "api": "./File/py/Abalone/[Aure][影¹⁸]小chu女.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "order_num": 0,
+      "style": {
+        "type": "rect",
+        "ratio": 1.755
+      },
+      "ext": ""
+    },
+    {
+      "key": "local_[Aure][影¹⁸]蘑菇视频",
+      "name": "[Aure][影¹⁸]蘑菇视频ᵖʸ",
+      "type": 3,
+      "api": "./File/py/Abalone/[Aure][影¹⁸]蘑菇视频.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "order_num": 0,
+      "style": {
+        "type": "rect",
+        "ratio": 1.755
+      },
+      "ext": ""
+    },
+    {
+      "key": "local_[Aure][影¹⁸]51短剧",
+      "name": "[Aure][影¹⁸]51短剧ᵖʸ",
+      "type": 3,
+      "api": "./File/py/Abalone/[Aure][影¹⁸]51短剧.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "order_num": 0,
+      "style": {
+        "type": "rect",
+        "ratio": 1.755
+      },
+      "ext": ""
+    },
+    {
+      "key": "local_[Aure][影¹⁸]abjav",
+      "name": "[Aure][影¹⁸]abjavᵖʸ",
+      "type": 3,
+      "api": "./File/py/Abalone/[Aure][影¹⁸]abjav.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "order_num": 0,
+      "style": {
+        "type": "rect",
+        "ratio": 1.755
+      },
+      "ext": ""
+    },
+    {
+      "key": "local_[live¹⁸]电视直播源",
+      "name": "[live¹⁸]电视直播源ᵖʸ",
+      "type": 3,
+      "api": "./File/py/Abalone/[live¹⁸]电视直播源.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "order_num": 0,
+      "style": {
+        "type": "rect",
+        "ratio": 1.755
+      },
+      "ext": ""
+    },
+    {
+      "key": "local_[剧¹⁸]2048成人短剧",
+      "name": "[剧¹⁸]2048成人短剧ᵖʸ",
+      "type": 3,
+      "api": "./File/py/Abalone/[剧¹⁸]2048成人短剧.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "order_num": 0,
+      "style": {
+        "type": "rect",
+        "ratio": 1.755
+      },
+      "ext": ""
+    },
+    {
+      "key": "local_[Aure][影¹⁸]AVJOY",
+      "name": "[Aure][影¹⁸]AVJOYᵖʸ",
+      "type": 3,
+      "api": "./File/py/Abalone/[Aure][影¹⁸]AVJOY.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "order_num": 0,
+      "style": {
+        "type": "rect",
+        "ratio": 1.755
+      },
+      "ext": ""
+    },
+    {
+      "key": "local_[Aure][影¹⁸]Hanime1",
+      "name": "[Aure][影¹⁸]Hanime1ᵖʸ",
+      "type": 3,
+      "api": "./File/py/Abalone/[Aure][影¹⁸]Hanime1.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "order_num": 0,
+      "style": {
+        "type": "rect",
+        "ratio": 1.755
+      },
+      "ext": ""
+    },
+    {
+      "key": "local_[Aure][影¹⁸]youavhub",
+      "name": "[Aure][影¹⁸]youavhubᵖʸ",
+      "type": 3,
+      "api": "./File/py/Abalone/[Aure][影¹⁸]youavhub.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "order_num": 0,
+      "style": {
+        "type": "rect",
+        "ratio": 1.755
+      },
+      "ext": ""
+    },
+    {
+      "key": "local_[剧¹⁸]剧屋影视",
+      "name": "[剧¹⁸]剧屋影视ᵖʸ",
+      "type": 3,
+      "api": "./File/py/Abalone/[剧¹⁸]剧屋影视.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "order_num": 0,
+      "style": {
+        "type": "rect",
+        "ratio": 1.755
+      },
+      "ext": ""
+    },
+    {
+      "key": "local_[剧¹⁸]多聚短剧",
+      "name": "[剧¹⁸]多聚短剧ᵖʸ",
+      "type": 3,
+      "api": "./File/py/Abalone/[剧¹⁸]多聚短剧.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "order_num": 0,
+      "style": {
+        "type": "rect",
+        "ratio": 1.755
+      },
+      "ext": ""
+    },
+    {
+      "key": "local_[剧¹⁸]橙果短剧",
+      "name": "[剧¹⁸]橙果短剧ᵖʸ",
+      "type": 3,
+      "api": "./File/py/Abalone/[剧¹⁸]橙果短剧.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "order_num": 0,
+      "style": {
+        "type": "rect",
+        "ratio": 1.755
+      },
+      "ext": ""
+    },
+    {
+      "key": "local_[剧¹⁸]狂飙短剧",
+      "name": "[剧¹⁸]狂飙短剧ᵖʸ",
+      "type": 3,
+      "api": "./File/py/Abalone/[剧¹⁸]狂飙短剧.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "order_num": 0,
+      "style": {
+        "type": "rect",
+        "ratio": 1.755
+      },
+      "ext": ""
+    },
+    {
+      "key": "local_[剧¹⁸]真果鉴",
+      "name": "[剧¹⁸]真果鉴ᵖʸ",
+      "type": 3,
+      "api": "./File/py/Abalone/[剧¹⁸]真果鉴.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "order_num": 0,
+      "style": {
+        "type": "rect",
+        "ratio": 1.755
+      },
+      "ext": ""
+    },
+    {
+      "key": "local_[剧¹⁸]禁果短剧",
+      "name": "[剧¹⁸]禁果短剧ᵖʸ",
+      "type": 3,
+      "api": "./File/py/Abalone/[剧¹⁸]禁果短剧.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "order_num": 0,
+      "style": {
+        "type": "rect",
+        "ratio": 1.755
+      },
+      "ext": ""
+    },
+    {
+      "key": "local_[剧¹⁸]糯米短剧",
+      "name": "[剧¹⁸]糯米短剧ᵖʸ",
+      "type": 3,
+      "api": "./File/py/Abalone/[剧¹⁸]糯米短剧.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "order_num": 0,
+      "style": {
+        "type": "rect",
+        "ratio": 1.755
+      },
+      "ext": ""
+    },
+    {
+      "key": "local_[剧¹⁸]红果黄剧",
+      "name": "[剧¹⁸]红果黄剧ᵖʸ",
+      "type": 3,
+      "api": "./File/py/Abalone/[剧¹⁸]红果黄剧.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "order_num": 0,
+      "style": {
+        "type": "rect",
+        "ratio": 1.755
+      },
+      "ext": ""
+    },
+    {
+      "key": "local_[Aure][影¹⁸]肉视频",
+      "name": "[Aure][影¹⁸]肉视频ᵖʸ",
+      "type": 3,
+      "api": "./File/py/Abalone/[Aure][影¹⁸]肉视频.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "order_num": 0,
+      "style": {
+        "type": "rect",
+        "ratio": 1.755
+      },
+      "ext": ""
+    },
+    {
+      "key": "local_[剧¹⁸]黄豆短剧",
+      "name": "[剧¹⁸]黄豆短剧ᵖʸ",
+      "type": 3,
+      "api": "./File/py/Abalone/[剧¹⁸]黄豆短剧.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "order_num": 0,
+      "style": {
+        "type": "rect",
+        "ratio": 1.755
+      },
+      "ext": ""
+    },
+    {
+      "key": "local_[影]牛牛视频",
+      "name": "[影]牛牛视频ᵖʸ",
+      "type": 3,
+      "api": "./File/py/Abalone/[影]牛牛视频.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "order_num": 0,
+      "style": {
+        "type": "rect",
+        "ratio": 1.755
+      },
+      "ext": ""
+    },
+    {
+      "key": "local_[Aure][影¹⁸]134X",
+      "name": "[Aure][影¹⁸]134Xᵖʸ",
+      "type": 3,
+      "api": "./File/py/Abalone/[Aure][影¹⁸]134X.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "order_num": 0,
+      "style": {
+        "type": "rect",
+        "ratio": 1.755
+      },
+      "ext": ""
+    },
+    {
+      "key": "local_[Aure][影¹⁸]黄色仓库",
+      "name": "[Aure][影¹⁸]黄色仓库ᵖʸ",
+      "type": 3,
+      "api": "./File/py/Abalone/[Aure][影¹⁸]黄色仓库.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "order_num": 0,
+      "style": {
+        "type": "rect",
+        "ratio": 1.755
+      },
+      "ext": ""
+    },
+    {
+      "key": "local_[Aure][影¹⁸]TOPTV",
+      "name": "[Aure][影¹⁸]TOPTVᵖʸ",
+      "type": 3,
+      "api": "./File/py/Abalone/[Aure][影¹⁸]TOPTV.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "order_num": 0,
+      "style": {
+        "type": "rect",
+        "ratio": 1.755
+      },
+      "ext": ""
+    },
+    {
+      "key": "local_[影¹⁸]4k日本动漫",
+      "name": "[影¹⁸]4k日本动漫ᵖʸ",
+      "type": 3,
+      "api": "./File/py/Abalone/[影¹⁸]4k日本动漫.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "order_num": 0,
+      "style": {
+        "type": "rect",
+        "ratio": 1.755
+      },
+      "ext": ""
+    },
+    {
+      "key": "local_[Aure][影¹⁸]51吃瓜网",
+      "name": "[Aure][影¹⁸]51吃瓜网ᵖʸ",
+      "type": 3,
+      "api": "./File/py/Abalone/[Aure][影¹⁸]51吃瓜网.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "order_num": 0,
+      "style": {
+        "type": "rect",
+        "ratio": 1.755
+      },
+      "ext": ""
+    },
+    {
+      "key": "local_[Aure][影¹⁸]玩物社区",
+      "name": "[Aure][影¹⁸]玩物社区ᵖʸ",
+      "type": 3,
+      "api": "./File/py/Abalone/[Aure][影¹⁸]玩物社区.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "order_num": 0,
+      "style": {
+        "type": "rect",
+        "ratio": 1.755
+      },
+      "ext": ""
+    },
+    {
+      "key": "local_[影¹⁸]618视频",
+      "name": "[影¹⁸]618视频ᵖʸ",
+      "type": 3,
+      "api": "./File/py/Abalone/[影¹⁸]618视频.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "order_num": 0,
+      "style": {
+        "type": "rect",
+        "ratio": 1.755
+      },
+      "ext": ""
+    },
+    {
+      "key": "local_[影¹⁸]66在线",
+      "name": "[影¹⁸]66在线ᵖʸ",
+      "type": 3,
+      "api": "./File/py/Abalone/[影¹⁸]66在线.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "order_num": 0,
+      "style": {
+        "type": "rect",
+        "ratio": 1.755
+      },
+      "ext": ""
+    },
+    {
+      "key": "local_[影¹⁸]85PO",
+      "name": "[影¹⁸]85POᵖʸ",
+      "type": 3,
+      "api": "./File/py/Abalone/[影¹⁸]85PO.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "order_num": 0,
+      "style": {
+        "type": "rect",
+        "ratio": 1.755
+      },
+      "ext": ""
+    },
+    {
+      "key": "local_[Aure][影¹⁸]色情百科",
+      "name": "[Aure][影¹⁸]色情百科ᵖʸ",
+      "type": 3,
+      "api": "./File/py/Abalone/[Aure][影¹⁸]色情百科.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "order_num": 0,
+      "style": {
+        "type": "rect",
+        "ratio": 1.755
+      },
+      "ext": ""
+    },
+    {
+      "key": "local_[Aure][影¹⁸]911爆料网",
+      "name": "[Aure][影¹⁸]911爆料网ᵖʸ",
+      "type": 3,
+      "api": "./File/py/Abalone/[Aure][影¹⁸]911爆料网.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "order_num": 0,
+      "style": {
+        "type": "rect",
+        "ratio": 1.755
+      },
+      "ext": ""
+    },
+    {
+      "key": "local_[Aure][影¹⁸]XX01AV",
+      "name": "[Aure][影¹⁸]XX01AVᵖʸ",
+      "type": 3,
+      "api": "./File/py/Abalone/[Aure][影¹⁸]XX01AV.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "order_num": 0,
+      "style": {
+        "type": "rect",
+        "ratio": 1.755
+      },
+      "ext": ""
+    },
+    {
+      "key": "local_[Aure][影¹⁸]BestJavPorn",
+      "name": "[Aure][影¹⁸]BestJavPornᵖʸ",
+      "type": 3,
+      "api": "./File/py/Abalone/[Aure][影¹⁸]BestJavPorn.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "order_num": 0,
+      "style": {
+        "type": "rect",
+        "ratio": 1.755
+      },
+      "ext": ""
+    },
+    {
+      "key": "local_[影¹⁸]AV星球",
+      "name": "[影¹⁸]AV星球ᵖʸ",
+      "type": 3,
+      "api": "./File/py/Abalone/[影¹⁸]AV星球.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "order_num": 0,
+      "style": {
+        "type": "rect",
+        "ratio": 1.755
+      },
+      "ext": ""
+    },
+    {
+      "key": "local_[Aure][影¹⁸]X红颜",
+      "name": "[Aure][影¹⁸]X红颜ᵖʸ",
+      "type": 3,
+      "api": "./File/py/Abalone/[Aure][影¹⁸]X红颜.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "order_num": 0,
+      "style": {
+        "type": "rect",
+        "ratio": 1.755
+      },
+      "ext": ""
+    },
+    {
+      "key": "local_[Aure][影¹⁸]浮生影院",
+      "name": "[Aure][影¹⁸]浮生影院ᵖʸ",
+      "type": 3,
+      "api": "./File/py/Abalone/[Aure][影¹⁸]浮生影院.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "order_num": 0,
+      "style": {
+        "type": "rect",
+        "ratio": 1.755
+      },
+      "ext": ""
+    },
+    {
+      "key": "local_[Aure][影¹⁸]CEOTV",
+      "name": "[Aure][影¹⁸]CEOTVᵖʸ",
+      "type": 3,
+      "api": "./File/py/Abalone/[Aure][影¹⁸]CEOTV.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "order_num": 0,
+      "style": {
+        "type": "rect",
+        "ratio": 1.755
+      },
+      "ext": ""
+    },
+    {
+      "key": "local_[影¹⁸]AnimeSex",
+      "name": "[影¹⁸]AnimeSexᵖʸ",
+      "type": 3,
+      "api": "./File/py/Abalone/[影¹⁸]AnimeSex.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "order_num": 0,
+      "style": {
+        "type": "rect",
+        "ratio": 1.755
+      },
+      "ext": ""
+    },
+    {
+      "key": "local_[影¹⁸]BOSSTV",
+      "name": "[影¹⁸]BOSSTVᵖʸ",
+      "type": 3,
+      "api": "./File/py/Abalone/[影¹⁸]BOSSTV.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "order_num": 0,
+      "style": {
+        "type": "rect",
+        "ratio": 1.755
+      },
+      "ext": ""
+    },
+    {
+      "key": "local_[影¹⁸]BZSP005",
+      "name": "[影¹⁸]BZSP005ᵖʸ",
+      "type": 3,
+      "api": "./File/py/Abalone/[影¹⁸]BZSP005.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "order_num": 0,
+      "style": {
+        "type": "rect",
+        "ratio": 1.755
+      },
+      "ext": ""
+    },
+    {
+      "key": "local_[Aure][影¹⁸]PigAV",
+      "name": "[Aure][影¹⁸]PigAVᵖʸ",
+      "type": 3,
+      "api": "./File/py/Abalone/[Aure][影¹⁸]PigAV.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "order_num": 0,
+      "style": {
+        "type": "rect",
+        "ratio": 1.755
+      },
+      "ext": ""
+    },
+    {
+      "key": "local_[Aure][影¹⁸]Px8x导航",
+      "name": "[Aure][影¹⁸]Px8x导航ᵖʸ",
+      "type": 3,
+      "api": "./File/py/Abalone/[Aure][影¹⁸]Px8x导航.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "order_num": 0,
+      "style": {
+        "type": "rect",
+        "ratio": 1.755
+      },
+      "ext": ""
+    },
+    {
+      "key": "local_[影¹⁸]EbonyGalore",
+      "name": "[影¹⁸]EbonyGaloreᵖʸ",
+      "type": 3,
+      "api": "./File/py/Abalone/[影¹⁸]EbonyGalore.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "order_num": 0,
+      "style": {
+        "type": "rect",
+        "ratio": 1.755
+      },
+      "ext": ""
+    },
+    {
+      "key": "local_[Aure][影¹⁸]GGJAV",
+      "name": "[Aure][影¹⁸]GGJAVᵖʸ",
+      "type": 3,
+      "api": "./File/py/Abalone/[Aure][影¹⁸]GGJAV.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "order_num": 0,
+      "style": {
+        "type": "rect",
+        "ratio": 1.755
+      },
+      "ext": ""
+    },
+    {
+      "key": "local_[Aure][影¹⁸]Vv视频",
+      "name": "[Aure][影¹⁸]Vv视频ᵖʸ",
+      "type": 3,
+      "api": "./File/py/Abalone/[Aure][影¹⁸]Vv视频.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "order_num": 0,
+      "style": {
+        "type": "rect",
+        "ratio": 1.755
+      },
+      "ext": ""
+    },
+    {
+      "key": "local_[Aure][影¹⁸]XVideos",
+      "name": "[Aure][影¹⁸]XVideosᵖʸ",
+      "type": 3,
+      "api": "./File/py/Abalone/[Aure][影¹⁸]XVideos.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "order_num": 0,
+      "style": {
+        "type": "rect",
+        "ratio": 1.755
+      },
+      "ext": ""
+    },
+    {
+      "key": "local_[影¹⁸]吉利猫",
+      "name": "[影¹⁸]吉利猫ᵖʸ",
+      "type": 3,
+      "api": "./File/py/Abalone/[影¹⁸]吉利猫.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "order_num": 0,
+      "style": {
+        "type": "rect",
+        "ratio": 1.755
+      },
+      "ext": ""
+    },
+    {
+      "key": "local_[Aure][影¹⁸]小汤圆视频",
+      "name": "[Aure][影¹⁸]小汤圆视频ᵖʸ",
+      "type": 3,
+      "api": "./File/py/Abalone/[Aure][影¹⁸]小汤圆视频.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "order_num": 0,
+      "style": {
+        "type": "rect",
+        "ratio": 1.755
+      },
+      "ext": ""
+    },
+    {
+      "key": "local_[影¹⁸]Twitter精选",
+      "name": "[影¹⁸]Twitter精选ᵖʸ",
+      "type": 3,
+      "api": "./File/py/Abalone/[影¹⁸]Twitter精选.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "order_num": 0,
+      "style": {
+        "type": "rect",
+        "ratio": 1.755
+      },
+      "ext": ""
+    },
+    {
+      "key": "local_[影¹⁸]UU视频",
+      "name": "[影¹⁸]UU视频ᵖʸ",
+      "type": 3,
+      "api": "./File/py/Abalone/[影¹⁸]UU视频.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "order_num": 0,
+      "style": {
+        "type": "rect",
+        "ratio": 1.755
+      },
+      "ext": ""
+    },
+    {
+      "key": "local_[Aure][影¹⁸]抖阴",
+      "name": "[Aure][影¹⁸]抖阴ᵖʸ",
+      "type": 3,
+      "api": "./File/py/Abalone/[Aure][影¹⁸]抖阴.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "order_num": 0,
+      "style": {
+        "type": "rect",
+        "ratio": 1.755
+      },
+      "ext": ""
+    },
+    {
+      "key": "local_[影¹⁸]茄子精品",
+      "name": "[影¹⁸]茄子精品ᵖʸ",
+      "type": 3,
+      "api": "./File/py/Abalone/[影¹⁸]茄子精品.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "order_num": 0,
+      "style": {
+        "type": "rect",
+        "ratio": 1.755
+      },
+      "ext": ""
+    },
+    {
+      "key": "local_[Aure][影¹⁸]推特APP",
+      "name": "[Aure][影¹⁸]推特APPᵖʸ",
+      "type": 3,
+      "api": "./File/py/Abalone/[Aure][影¹⁸]推特APP.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "order_num": 0,
+      "style": {
+        "type": "rect",
+        "ratio": 1.755
+      },
+      "ext": ""
+    },
+    {
+      "key": "local_[Aure][影¹⁸]禁片天堂",
+      "name": "[Aure][影¹⁸]禁片天堂ᵖʸ",
+      "type": 3,
+      "api": "./File/py/Abalone/[Aure][影¹⁸]禁片天堂.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "order_num": 0,
+      "style": {
+        "type": "rect",
+        "ratio": 1.755
+      },
+      "ext": ""
+    },
+    {
+      "key": "local_[Aure][影¹⁸]搜搜啪",
+      "name": "[Aure][影¹⁸]搜搜啪ᵖʸ",
+      "type": 3,
+      "api": "./File/py/Abalone/[Aure][影¹⁸]搜搜啪.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "order_num": 0,
+      "style": {
+        "type": "rect",
+        "ratio": 1.755
+      },
+      "ext": ""
+    },
+    {
+      "key": "local_[影¹⁸]乱伦淫窝",
+      "name": "[影¹⁸]乱伦淫窝ᵖʸ",
+      "type": 3,
+      "api": "./File/py/Abalone/[影¹⁸]乱伦淫窝.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "order_num": 0,
+      "style": {
+        "type": "rect",
+        "ratio": 1.755
+      },
+      "ext": ""
+    },
+    {
+      "key": "local_[影¹⁸]夜勾心事",
+      "name": "[影¹⁸]夜勾心事ᵖʸ",
+      "type": 3,
+      "api": "./File/py/Abalone/[影¹⁸]夜勾心事.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "order_num": 0,
+      "style": {
+        "type": "rect",
+        "ratio": 1.755
+      },
+      "ext": ""
+    },
+    {
+      "key": "local_[影¹⁸]少女破处",
+      "name": "[影¹⁸]少女破处ᵖʸ",
+      "type": 3,
+      "api": "./File/py/Abalone/[影¹⁸]少女破处.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "order_num": 0,
+      "style": {
+        "type": "rect",
+        "ratio": 1.755
+      },
+      "ext": ""
+    },
+    {
+      "key": "local_[影¹⁸]快感研究所",
+      "name": "[影¹⁸]快感研究所ᵖʸ",
+      "type": 3,
+      "api": "./File/py/Abalone/[影¹⁸]快感研究所.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "order_num": 0,
+      "style": {
+        "type": "rect",
+        "ratio": 1.755
+      },
+      "ext": ""
+    },
+    {
+      "key": "local_[影¹⁸]撸一天",
+      "name": "[影¹⁸]撸一天ᵖʸ",
+      "type": 3,
+      "api": "./File/py/Abalone/[影¹⁸]撸一天.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "order_num": 0,
+      "style": {
+        "type": "rect",
+        "ratio": 1.755
+      },
+      "ext": ""
+    },
+    {
+      "key": "local_[影¹⁸]神秘电影",
+      "name": "[影¹⁸]神秘电影ᵖʸ",
+      "type": 3,
+      "api": "./File/py/Abalone/[影¹⁸]神秘电影.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "order_num": 0,
+      "style": {
+        "type": "rect",
+        "ratio": 1.755
+      },
+      "ext": ""
+    },
+    {
+      "key": "local_[影¹⁸]萝莉岛",
+      "name": "[影¹⁸]萝莉岛ᵖʸ",
+      "type": 3,
+      "api": "./File/py/Abalone/[影¹⁸]萝莉岛.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "order_num": 0,
+      "style": {
+        "type": "rect",
+        "ratio": 1.755
+      },
+      "ext": ""
+    },
+    {
+      "key": "local_[影¹⁸]采集聚合成人",
+      "name": "[影¹⁸]采集聚合成人ᵖʸ",
+      "type": 3,
+      "api": "./File/py/Abalone/[影¹⁸]采集聚合成人.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "order_num": 0,
+      "style": {
+        "type": "rect",
+        "ratio": 1.755
+      },
+      "ext": ""
+    },
+    {
+      "key": "local_[Aure][影¹⁸]OWOAV",
+      "name": "[Aure][影¹⁸]OWOAVᵖʸ",
+      "type": 3,
+      "api": "./File/py/Abalone/[Aure][影¹⁸]OWOAV.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "order_num": 0,
+      "style": {
+        "type": "rect",
+        "ratio": 1.755
+      },
+      "ext": ""
+    },
+    {
+      "key": "local_[Aure][剧¹⁸]91成人短剧",
+      "name": "[Aure][剧¹⁸]91成人短剧ᵖʸ",
+      "type": 3,
+      "api": "./File/py/Abalone/[Aure][剧¹⁸]91成人短剧.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "order_num": 0,
+      "style": {
+        "type": "rect",
+        "ratio": 1.755
+      },
+      "ext": ""
+    },
+    {
+      "key": "local_[影¹⁸]海角爱",
+      "name": "[影¹⁸]海角爱ᵖʸ",
+      "type": 3,
+      "api": "./File/py/Abalone/[影¹⁸]海角爱.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "order_num": 0,
+      "style": {
+        "type": "rect",
+        "ratio": 1.755
+      },
+      "ext": ""
+    },
+    {
+      "key": "local_[影¹⁸]经典老片",
+      "name": "[影¹⁸]经典老片ᵖʸ",
+      "type": 3,
+      "api": "./File/py/Abalone/[影¹⁸]经典老片.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "order_num": 0,
+      "style": {
+        "type": "rect",
+        "ratio": 1.755
+      },
+      "ext": ""
+    },
+    {
+      "key": "local_[影¹⁸]采集合集",
+      "name": "[影¹⁸]采集合集ᵖʸ",
+      "type": 3,
+      "api": "./File/py/Abalone/[影¹⁸]采集合集.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "order_num": 0,
+      "style": {
+        "type": "rect",
+        "ratio": 1.755
+      },
+      "ext": ""
+    },
+    {
+      "key": "local_[影¹⁸]陌陌交友",
+      "name": "[影¹⁸]陌陌交友ᵖʸ",
+      "type": 3,
+      "api": "./File/py/Abalone/[影¹⁸]陌陌交友.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "order_num": 0,
+      "style": {
+        "type": "rect",
+        "ratio": 1.755
+      },
+      "ext": ""
+    },
+    {
+      "key": "local_[影¹⁸]黑料",
+      "name": "[影¹⁸]黑料ᵖʸ",
+      "type": 3,
+      "api": "./File/py/Abalone/[影¹⁸]黑料.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "order_num": 0,
+      "style": {
+        "type": "rect",
+        "ratio": 1.755
+      },
+      "ext": ""
+    },
+    {
+      "key": "local_[音¹⁸]有声骚麦",
+      "name": "[音¹⁸]有声骚麦ᵖʸ",
+      "type": 3,
+      "api": "./File/py/Abalone/[音¹⁸]有声骚麦.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "order_num": 0,
+      "style": {
+        "type": "rect",
+        "ratio": 1.755
+      },
+      "ext": ""
+    },
+    {
+      "key": "jabletv",
+      "name": "[jar]Jable",
+      "type": 3,
+      "api": "csp_JableTv",
+      "jar": "./jar/JableTv.jar",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "changeable": 0,
+      "style": {
+        "type": "rect",
+        "ratio": 1.755
+      }
+    },
+    {
+      "key": "missav",
+      "name": "[jar]Missav",
+      "type": 3,
+      "api": "csp_Missav",
+      "jar": "./jar/Missav.jar",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "changeable": 0,
+      "style": {
+        "type": "rect",
+        "ratio": 1.755
+      }
+    },
+    {
+      "key": "whostv",
+      "name": "[jar]Whostv",
+      "type": 3,
+      "api": "csp_Whostv",
+      "jar": "./jar/Whostv.jar",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "changeable": 0,
+      "style": {
+        "type": "rect",
+        "ratio": 1.755
+      }
+    },
+    {
+      "key": "supjavcom",
+      "name": "[jar]Supjav",
+      "type": 3,
+      "api": "csp_SupjavCom",
+      "jar": "./jar/SupjavCom.jar",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "changeable": 0,
+      "style": {
+        "type": "rect",
+        "ratio": 1.755
+      }
+    },
+    {
+      "key": "智能db",
+      "name": "智能db",
+      "type": 3,
+      "api": "./Source/智能db.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": {
+        "proxy": {},
+        "plp": ""
+      },
+      "style": {
+        "type": "rect",
+        "ratio": 1.48
+      }
+    },
+    {
+      "key": "智能聚合",
+      "name": "꒰ঌ智能聚合໒꒱",
+      "type": 3,
+      "api": "./Source/智能聚合¹.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "order_num": 0,
+      "style": {
+        "type": "rect"
+      },
+      "ext": ""
+    },
+    {
+      "key": "写入器",
+      "name": "꒰ঌ写入器໒꒱",
+      "type": 3,
+      "api": "./Source/写入器¹.py"
+    },
+    {
+      "key": "本地",
+      "name": "❅本地视频",
+      "jar": "./jar/GM.jar",
+      "type": 3,
+      "api": "csp_Local"
+    }
+  ],
+  "lives": [
+    {
+      "name": "❅秘密花园",
+      "url": "https://gitee.com/sji820/des/raw/master/0.jpg",
+      "epg": "http://diyp5.112114.xyz/?ch={name}&date={date}",
+      "logo": "https://epg.112114.xyz/logo/{name}.png"
+    },
+    {
+      "name": "❅黄色",
+      "url": "https://down.nigx.cn/mpimg.cn/down.php/25da10b0cb7b90d422ae22852bd7d414.txt",
+      "header": {
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36",
+        "Referer": "",
+        "cookie": ""
+      }
+    },
+    {
+      "name": "❅日本",
+      "url": "https://down.nigx.cn/raw.githubusercontent.com/luongz/iptv-jp/refs/heads/main/jp_clean.m3u",
+      "header": {
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36",
+        "Referer": "",
+        "cookie": ""
+      }
+    },
+    {
+      "name": "❅日本1",
+      "url": "https://down.nigx.cn/raw.githubusercontent.com/luongz/iptv-jp/refs/heads/main/jp.m3u",
+      "header": {
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36",
+        "Referer": "",
+        "cookie": ""
+      },
+      "epg": "http://diyp5.112114.xyz/?ch={name}&date={date}",
+      "logo": "http://diyp5.112114.xyz/{name}.png"
+    }
+  ]
 }

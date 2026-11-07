@@ -1,5 +1,5 @@
 # -*- coding: utf-8 -*-
-# [北斗影院  更新于:2026-10-31 13:23]
+# [北斗影院  更新于:2026-11-04 10:22]
 import re
 import json
 import time
@@ -38,6 +38,8 @@ except Exception:
 NAME = "北斗影院"
 HOST = "http://www.bdjmcc.com"
 UA = "Mozilla/5.0 (Linux; Android 13; SM-G991B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36"
+# 抖音 CDN 直链按浏览器指纹校验：**带来源域 Referer 一律 403**，必须裸请求（不带 Referer，用播放器自身 UA）
+PLAY_UA = "Mozilla/5.0 (Linux; arm_64; Android 13; SM-G991B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36"
 PAGE_SIZE = 36
 CACHE_TTL = 30
 STYLE = {"type": "rect", "ratio": 1.33}
@@ -77,15 +79,18 @@ class Spider(BaseSpider):
     def action(self, action):
         return {"msg": "不支持此操作"}
 
-    def _fetch(self, url):
-        ck = url
+    def _fetch(self, url, headers=None):
+        hdrs = dict(self.headers)
+        if headers:
+            hdrs.update(headers)
+        ck = url + "|" + (hdrs.get("Accept") or "")
         hit = self._cache.get(ck)
         if hit and time.time() - hit[1] < CACHE_TTL:
             return hit[0]
         html = ""
         if getattr(self, "net", None) is not None:
             try:
-                resp = self.net.req(url, {"headers": self.headers, "timeout": 15000})
+                resp = self.net.req(url, {"headers": hdrs, "timeout": 15000})
                 if not resp.get("error") and 200 <= (resp.get("code") or 0) < 300:
                     html = resp.get("content", "")
             except Exception:
@@ -94,7 +99,7 @@ class Spider(BaseSpider):
             try:
                 import urllib.request, ssl
                 ctx = ssl._create_unverified_context()
-                req = urllib.request.Request(url, headers=self.headers)
+                req = urllib.request.Request(url, headers=hdrs)
                 with urllib.request.urlopen(req, timeout=15, context=ctx) as r:
                     raw = r.read()
                     enc = r.headers.get("Content-Encoding", "")
@@ -262,7 +267,31 @@ class Spider(BaseSpider):
         iframe_src = self._extract(html, r'id="playerFrame"\s+src="([^"]+)"')
         if not iframe_src:
             iframe_src = url
+        media = self._resolve_media(iframe_src)
+        if media:
+            return {"parse": 0, "url": media}
         return {"parse": 1, "url": iframe_src, "header": {"User-Agent": UA, "Referer": self.host + "/"}}
+
+    def _resolve_media(self, iframe_src):
+        # 播放页 iframe = <解析域>/d5xc/player.html?v=<token>
+        # 播放器 JS 再请求 <解析域>/proxy/<token> -> {"code":200,"url":"<mp4 无扩展名直链>"}
+        m = re.match(r'(https?://[^/]+)/.*?player\.html\?(?:[^#]*?&)?v=([^&#]+)', iframe_src)
+        if not m:
+            return ""
+        api = m.group(1) + "/proxy/" + m.group(2)
+        body = self._fetch(api, headers={"Accept": "application/json", "Referer": iframe_src})
+        if not body:
+            return ""
+        try:
+            data = json.loads(body)
+        except Exception:
+            return ""
+        if str(data.get("code")) != "200":
+            return ""
+        media = (data.get("url") or "").strip()
+        if media.startswith("http") and (re.search(r"\.(m3u8|mp4|flv|mkv|ts)(\?|$)", media) or "video/tos/" in media):
+            return media
+        return ""
 
     def _vod(self, item):
         item = item or {}
